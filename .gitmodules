@@ -4,3 +4,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Jodee-Arat/messenger-backend
+[submodule "back"]
+	path = back
+	url = https://github.com/Jodee-Arat/Twitch-clone-backend
+[submodule "front"]
+	path = front
+	url = https://github.com/Jodee-Arat/Twitch-clone-frontend
